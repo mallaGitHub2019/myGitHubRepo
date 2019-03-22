@@ -1,1 +1,2 @@
-lite text f�r att se om branchen funkar mot det jag ser lokalt i mappen
+lite text för att se om branchen funkar mot det jag ser lokalt i mappen
+testar att modda filen i gitHub, alltså på servern.
